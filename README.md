@@ -10,4 +10,4 @@ Maker Media GmbH
 
 ![Wurmalarm](./Wurmalarm.jpg)
 
-Hier gibt es den Arduino-Code und die DXF-Dateien für die Sperrholzteile zum Download. Die **[Materialliste und die Aufbauanleitung](https://heise.de/-6549169)** Schritt für Schritt mit vielen Fotos gibt es ab 17. März 2022 auf make-magazin.de.
+Hier gibt es den Arduino-Code und die DXF-Dateien für die Sperrholzteile zum Download. Die **[Materialliste und die Aufbauanleitung](https://heise.de/-6549169)** Schritt für Schritt mit vielen Fotos gibt es auf make-magazin.de.
